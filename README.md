@@ -8,9 +8,9 @@ _[Market performance Vs Target](https://github.com/rahulpathak-DA/Excel_Data_Ana
 
 _[P&L Statement by Fiscal Year](https://github.com/rahulpathak-DA/Excel_Data_Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_
 
-https://github.com/rahulpathak-DA/Excel_Data_Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf
+_[P&L statement by markets](https://github.com/rahulpathak-DA/Excel_Data_Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
 
-https://github.com/rahulpathak-DA/Excel_Data_Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf
+_[P&L Statemet by Months](https://github.com/rahulpathak-DA/Excel_Data_Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)_
 
 
 

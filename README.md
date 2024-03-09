@@ -8,6 +8,8 @@ https://github.com/rahulpathak-DA/Excel_Data_Analytics/blob/main/Market%20Perfor
 
 https://github.com/rahulpathak-DA/Excel_Data_Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf
 
+https://github.com/rahulpathak-DA/Excel_Data_Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf
+
 
 
 

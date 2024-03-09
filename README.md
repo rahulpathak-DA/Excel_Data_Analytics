@@ -4,6 +4,7 @@
 Atliq Hardware is an electronic hardare manifacturing company. Its customers are dealers all arond the word. The objective is to find various KPIs by using excel. 
 
 ##Role of KPI(Key Performance Indicators)
+
 #Empower businesses to monitor and evaluate their sales activities and performance.
 #Identify sales patterns and track key performance indicators (KPIs).
 #Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities #in promising countries.

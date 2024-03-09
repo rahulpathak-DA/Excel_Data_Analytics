@@ -1,15 +1,11 @@
 # Excel_Data_Analytics
-Use of Excel to create P&amp;L statements, Sales report
-*Project
+##Scenario 
 
-Scenario 
 Atliq Hardware is an electronic hardare manifacturing company. Its customers are dealers all arond the word. The objective is to find various KPIs by using excel. 
 
-1. A _[customer performance report](https://github.com/rahulpathak-DA/Excel_Data_Analytics/blob/main/Customer%20Performance%20Report.pdf)_ was created to measure  Net sales over the years. A comparioson was between year 2020 and 2021 was made. 
-
-_[Market performance Vs Target](https://github.com/rahulpathak-DA/Excel_Data_Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_
-
-_[P&L Statement by Fiscal Year](https://github.com/rahulpathak-DA/Excel_Data_Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_
+1. A _[customer performance report](https://github.com/rahulpathak-DA/Excel_Data_Analytics/blob/main/Customer%20Performance%20Report.pdf)_ was created to measure  Net sales over the years. A comparison  between year 2020 and 2021 was made. 
+2. A _[Market performance Vs Target](https://github.com/rahulpathak-DA/Excel_Data_Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_  was created to compare net sales in diffrenebt regions against markets. 
+A _[P&L Statement by Fiscal Year](https://github.com/rahulpathak-DA/Excel_Data_Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ for 3 years was created. 
 
 _[P&L statement by markets](https://github.com/rahulpathak-DA/Excel_Data_Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
 

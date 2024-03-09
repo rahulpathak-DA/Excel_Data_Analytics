@@ -1,8 +1,11 @@
 # Excel_Data_Analytics
 Use of Excel to create P&amp;L statements, Sales report
-*Project objective:** 
+*Project
 
-_[customer performance report](https://github.com/rahulpathak-DA/Excel_Data_Analytics/blob/main/Customer%20Performance%20Report.pdf)_
+Scenario 
+Atliq Hardware is an electronic hardare manifacturing company. Its customers are dealers all arond the word. The objective is to find various KPIs by using excel. 
+
+1. A _[customer performance report](https://github.com/rahulpathak-DA/Excel_Data_Analytics/blob/main/Customer%20Performance%20Report.pdf)_ was created to measure  Net sales over the years. A comparioson was between year 2020 and 2021 was made. 
 
 _[Market performance Vs Target](https://github.com/rahulpathak-DA/Excel_Data_Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_
 

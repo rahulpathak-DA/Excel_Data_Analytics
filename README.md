@@ -4,6 +4,8 @@ Use of Excel to create P&amp;L statements, Sales report
 
 https://github.com/rahulpathak-DA/Excel_Data_Analytics/blob/main/Customer%20Performance%20Report.pdf
 
+https://github.com/rahulpathak-DA/Excel_Data_Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf
+
 
 
 
